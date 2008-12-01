@@ -1,0 +1,9 @@
+Revision history for Wx::Perl::PodEditor
+
+0.02    Thu Nov 06, 2008
+        + added manifest.t
+        + moved xml parsing to XMLParser.pm
+
+0.01    Tue Nov 04, 2008
+        First version, released on an unsuspecting world.
+
