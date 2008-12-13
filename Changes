@@ -1,5 +1,9 @@
 Revision history for Wx::Perl::PodEditor
 
+0.03    Tue Dec 09, 2009
+        - bugfix in META.yml
+        + added check for wxWidgets in Makefile.PL
+
 0.02    Thu Nov 06, 2008
         + added manifest.t
         + moved xml parsing to XMLParser.pm

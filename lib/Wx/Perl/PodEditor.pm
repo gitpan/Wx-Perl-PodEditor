@@ -27,7 +27,7 @@ Wx::Perl::PodEditor::FormatActions->define_styles;
 
 our $AUTOLOAD;
 
-our $VERSION = 0.02;
+our $VERSION = 0.03;
 
 sub create {
     my ($class, $parent, $size) = @_;
